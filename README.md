@@ -1,8 +1,7 @@
-(https://media.licdn.com/dms/image/v2/D5616AQGwciK6Kg96hw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1661704286703?e=1759968000&v=beta&t=WW-7rRIakRgRmOi5XOy2hoQUxyY7d12XbeqftWW5f1o)
+![I am WordPress Developer](https://media.licdn.com/dms/image/v2/D5616AQGwciK6Kg96hw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1661704286703?e=1759968000&v=beta&t=WW-7rRIakRgRmOi5XOy2hoQUxyY7d12XbeqftWW5f1o)
 
 ### Hi there 👋, I'm Jisan
 #### I am WordPress Developer
-![I am WordPress Developer]
 
 I'm a WordPress & Elementor Expert with over 5 years of experience in designing and customizing professional websites for clients worldwide. My designs are modern, fully responsive, SEO-friendly, speed-optimized, and secure, all with a focus on your success.
 
