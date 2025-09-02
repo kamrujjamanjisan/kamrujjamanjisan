@@ -10,13 +10,7 @@
 
 ## 🧠 About Me
 
-I'm a WordPress & Elementor Expert with over **5 years of experience** designing and customizing professional websites for clients across the globe. My work is:
-
-- ✅ Modern & Responsive  
-- ✅ SEO-Friendly & Speed-Optimized  
-- ✅ Secure & Scalable  
-
-I focus on **client success**, blending creativity with performance.
+I'm a WordPress & Elementor Expert with over 5 years of experience in designing and customizing professional websites for clients worldwide. My designs are modern, fully responsive, SEO-friendly, speed-optimized, and secure, all with a focus on your success.
 
 ---
 
