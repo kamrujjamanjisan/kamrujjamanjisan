@@ -13,7 +13,11 @@
   ## 🧠 About Me  
   I'm a WordPress & Elementor Expert with over 5 years of experience in designing and customizing professional websites for clients worldwide. My designs are modern, fully responsive, SEO-friendly, speed-optimized, and secure, all with a focus on your success.
 
-  [![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kamrujjamanjisan/)
+  <p align="center">
+  <a href="https://www.linkedin.com/in/kamrujjamanjisan/" target="_blank">
+    <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
 
   <hr />
