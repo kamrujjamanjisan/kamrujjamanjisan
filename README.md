@@ -15,19 +15,26 @@
 
   <hr />
 
-  ## 🛠️ Skills & Technologies  
-  - **Languages & Tools**:  
-    `HTML` · `CSS` · `Bootstrap` · `WordPress` · `Elementor`  
-  - **Currently Learning**:  
-    `JavaScript` (to expand my front-end capabilities)
-
-  <hr />
-
-  ## 🚀 What I'm Up To  
-  - 🔭 Working actively on **Upwork**  
-  - 🌱 Learning **JavaScript**  
-  - 👯 Looking to **collaborate on GitHub**  
-  - 💬 Ask me about **Web Development**, especially WordPress & Elementor
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3>🛠️ Skills & Technologies</h3>
+        <ul>
+          <li><strong>Languages & Tools:</strong> HTML · CSS · Bootstrap · WordPress · Elementor</li>
+          <li><strong>Currently Learning:</strong> JavaScript (to expand my front-end capabilities)</li>
+        </ul>
+      </td>
+      <td valign="top" width="50%">
+        <h3>🚀 What I'm Up To</h3>
+        <ul>
+          <li>🔭 Working actively on <strong>Upwork</strong></li>
+          <li>🌱 Learning <strong>JavaScript</strong></li>
+          <li>👯 Looking to <strong>collaborate on GitHub</strong></li>
+          <li>💬 Ask me about <strong>Web Development</strong>, especially WordPress & Elementor</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 
   <hr />
 
