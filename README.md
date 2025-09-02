@@ -1,56 +1,50 @@
 <!-- Banner Section -->
-<h1 align="center">Hi 👋, I'm Md</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/WordPress%20Enthusiast-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Lifelong%20Learner-orange?style=flat-square" />
-</p>
+<h1 align="center">Hi there 👋, I'm Jisan</h1>
+<h3 align="center">💻 WordPress & Elementor Developer | 5+ Years Experience</h3>
 
 <p align="center">
-  <img src="https://github.com/md-yourusername/md-yourusername/blob/main/profile-pic.png" width="150" alt="Md's Profile Picture" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGwciK6Kg96hw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1661704286703?e=1759968000&v=beta&t=WW-7rRIakRgRmOi5XOy2hoQUxyY7d12XbeqftWW5f1o" alt="Banner" width="100%" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a passionate and strategic learner focused on building real, portfolio-ready skills in web development. I specialize in WordPress and full-stack technologies, and I’m committed to delivering work that’s both high-quality and credible. Whether it's front-end magic or back-end logic, I love turning ideas into reality.
+I'm a WordPress & Elementor Expert with over **5 years of experience** designing and customizing professional websites for clients across the globe. My work is:
 
-- 🎯 Currently pursuing a **recognized WordPress certificate** to boost my LinkedIn credibility
-- 🛠️ Always learning through **Coursera, Udemy, and LinkedIn Learning**
-- 💼 Focused on **authentic achievements**—no “naam matro” certificates here!
-- 📍 Based in Bangladesh
+- ✅ Modern & Responsive  
+- ✅ SEO-Friendly & Speed-Optimized  
+- ✅ Secure & Scalable  
+
+I focus on **client success**, blending creativity with performance.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Technologies
 
-Here are the technologies I work with:
+- **Languages & Tools**:  
+  `HTML` · `CSS` · `Bootstrap` · `WordPress` · `Elementor`
 
-- **Front-End**: HTML, CSS, Bootstrap, Tailwind, JavaScript, React
-- **Back-End**: Node.js, Express.js, MongoDB
-- **CMS & Platforms**: WordPress, Firebase
-- **Design**: Figma, Canva
+- **Currently Learning**:  
+  `JavaScript` (to expand my front-end capabilities)
 
-### 🔧 Skill Levels
+---
 
-| Skill       | Level     |
-|-------------|-----------|
-| HTML        | ⭐⭐⭐⭐⭐     |
-| CSS         | ⭐⭐⭐⭐⭐     |
-| Bootstrap   | ⭐⭐⭐⭐      |
-| Tailwind    | ⭐⭐⭐⭐      |
-| JavaScript  | ⭐⭐⭐⭐      |
-| React       | ⭐⭐⭐       |
+## 🚀 What I'm Up To
+
+- 🔭 Working actively on **Upwork**  
+- 🌱 Learning **JavaScript**  
+- 👯 Looking to **collaborate on GitHub**  
+- 💬 Ask me about **Web Development**, especially WordPress & Elementor
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-yourusername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-yourusername&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-yourusername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kamrujjamanjisan&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrujjamanjisan&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrujjamanjisan&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -58,29 +52,15 @@ Here are the technologies I work with:
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/md-yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://twitter.com/md-yourhandle"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge" /></a>
-  <a href="mailto:md@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://facebook.com/md-yourprofile"><img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&style=for-the-badge" /></a>
+  <a href="https://github.com/kamrujjamanjisan"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kamrujjamanjisan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/kamrujamanjisan"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/kamrujjamanjisan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.kamrujjamanjisan.com/"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=icloud&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~017caa56e861ed047a"><img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🏆 Achievements
-
-- ✅ Completed [Course Name] from [Platform] with Certificate ID: `XXXXXX`
-- 🧩 Built [Project Name] using React + Node.js
-- 🌱 Contributed to open-source projects and helped improve documentation
-
----
-
-## 📅 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/md-yourusername/md-yourusername/blob/main/contribution-graph.png" alt="GitHub Contribution Graph" />
-</p>
-
----
-
-> “Authenticity is my strategy. I build with purpose, learn with intention, and grow with credibility.”
+> “I design with purpose, develop with precision, and deliver with passion.”
 
