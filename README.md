@@ -3,7 +3,6 @@
   <!-- Banner Section -->
   <h1>Hi there 👋, I'm Jisan</h1>
   <h3>💻 WordPress & Elementor Developer | 5+ Years Experience</h3>
-  [![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kamrujjamanjisan/)
 
   <p>
     <img src="https://yt3.googleusercontent.com/PHEnByqJ7moW3KFdxlx72L-Bwtbt70-QZ1d-rpXtF769uJCBy9ydfStgF1Dq_0zmkS_Ltmwm=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Banner" width="100%" />
