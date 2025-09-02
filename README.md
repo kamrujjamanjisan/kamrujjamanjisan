@@ -15,6 +15,8 @@
 
   <hr />
 
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kamrujjamanjisan/)
+
   <table>
     <tr>
       <td valign="top" width="50%">
