@@ -30,7 +30,7 @@
           <li>🔭 Working actively on <strong>Upwork</strong></li>
           <li>🌱 Learning <strong>JavaScript</strong></li>
           <li>👯 Looking to <strong>collaborate on GitHub</strong></li>
-          <li>💬 Ask me about <strong>Web Development</strong>, especially WordPress & Elementor</li>
+          <li>💬 Ask me about <strong>Web Development</strong></li>
         </ul>
       </td>
     </tr>
