@@ -3,7 +3,7 @@
 <h3>💻 WordPress & Elementor Developer | 5+ Years Experience</h3>
 
 <p>
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQGwciK6Kg96hw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1661704286703?e=1759968000&v=beta&t=WW-7rRIakRgRmOi5XOy2hoQUxyY7d12XbeqftWW5f1o" alt="Banner" width="100%" />
+  <img src="https://yt3.googleusercontent.com/PHEnByqJ7moW3KFdxlx72L-Bwtbt70-QZ1d-rpXtF769uJCBy9ydfStgF1Dq_0zmkS_Ltmwm=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Banner" width="100%" />
 </p>
 
 ---
