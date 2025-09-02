@@ -1,8 +1,8 @@
 <!-- Banner Section -->
-<h1 align="center">Hi there 👋, I'm Jisan</h1>
-<h3 align="center">💻 WordPress & Elementor Developer | 5+ Years Experience</h3>
+<h1>Hi there 👋, I'm Jisan</h1>
+<h3>💻 WordPress & Elementor Developer | 5+ Years Experience</h3>
 
-<p align="center">
+<p>
   <img src="https://media.licdn.com/dms/image/v2/D5616AQGwciK6Kg96hw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1661704286703?e=1759968000&v=beta&t=WW-7rRIakRgRmOi5XOy2hoQUxyY7d12XbeqftWW5f1o" alt="Banner" width="100%" />
 </p>
 
