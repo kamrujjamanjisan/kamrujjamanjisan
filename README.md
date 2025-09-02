@@ -31,18 +31,6 @@ I'm a WordPress & Elementor Expert with over 5 years of experience in designing 
 - 👯 Looking to **collaborate on GitHub**  
 - 💬 Ask me about **Web Development**, especially WordPress & Elementor
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamrujjamanjisan&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrujjamanjisan&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrujjamanjisan&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p>
