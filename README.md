@@ -15,7 +15,7 @@
 
   <hr />
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kamrujjamanjisan/)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kamrujjamanjisan/)&nbsp;&nbsp;&nbsp;
 [![Hire Me on Upwork](https://img.shields.io/badge/Hire%20Me-Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017caa56e861ed047a)
 
   <table>
