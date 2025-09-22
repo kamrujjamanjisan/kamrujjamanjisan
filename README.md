@@ -5,7 +5,7 @@
   <h3>💻 WordPress & Elementor Developer | 5+ Years Experience</h3>
 
   <p>
-    <img src="https://media.licdn.com/dms/image/v2/D5616AQEtnQEDfnTLZg/profile-displaybackgroundimage-shrink_350_1400/B56ZkLYyneHAAk-/0/1756832674142?e=1759968000&v=beta&t=c0NjS-h8Y2wAici67mup4zIPVayDfWRqYZq_ZYWbZrY" alt="Banner" width="100%" />
+    <img src="https://media.licdn.com/dms/image/v2/D5616AQHNe5i91PviDQ/profile-displaybackgroundimage-shrink_350_1400/B56Zlx1fwgKEAY-/0/1758551475219?e=1761177600&v=beta&t=Xk7Aftov8Wenbf7S6BNgw_b-TgfZX1ILb1tGhpP8cUM" alt="Banner" width="100%" />
   </p>
 
   <hr />
