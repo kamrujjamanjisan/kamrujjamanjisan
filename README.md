@@ -2,7 +2,7 @@
 
   <!-- Banner Section -->
   <h1>Hi there 👋, I'm Jisan</h1>
-  <h3>💻 WordPress & Elementor Developer | 5+ Years Experience</h3>
+  <h3>💻 WordPress & Elementor Expert | 5+ Years Experience</h3>
 
   <p>
     <img src="https://media.licdn.com/dms/image/v2/D5616AQHRwwNNqpjhJA/profile-displaybackgroundimage-shrink_350_1400/B56ZqhLbbWH8AY-/0/1763640720601?e=1765411200&v=beta&t=V_k8KPSg74CbVgdXH5t0kbxkI99TvsYEu5_suGy4itc" alt="Banner" width="100%" />
