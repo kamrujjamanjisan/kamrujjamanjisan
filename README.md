@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner Section -->
-  <h1>Hi there 👋, I'm Jisan</h1>
+  <h1>Hi there 👋, I'm Kamrujjaman Jisan</h1>
   <h3>💻 WordPress & Elementor Expert | 5+ Years Experience</h3>
 
   <p>
