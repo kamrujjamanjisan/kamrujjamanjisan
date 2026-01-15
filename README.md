@@ -23,7 +23,7 @@
       <td valign="top" width="50%">
         <h3>🛠️ Skills & Technologies</h3>
         <ul>
-          <li><strong>Languages & Tools:</strong> HTML · CSS · Bootstrap · WordPress · Elementor</li>
+          <li><strong>Languages & Tools:</strong> HTML · CSS · JavaScript · Tailwind CSS · Bootstrap · WordPress · Elementor</li>
           <li><strong>Currently Learning:</strong> JavaScript (to expand my front-end capabilities)</li>
         </ul>
       </td>
