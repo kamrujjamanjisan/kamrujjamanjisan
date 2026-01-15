@@ -24,7 +24,7 @@
         <h3>🛠️ Skills & Technologies</h3>
         <ul>
           <li><strong>Languages & Tools:</strong> HTML · CSS · JavaScript · Tailwind CSS · Bootstrap · WordPress · Elementor</li>
-          <li><strong>Currently Learning:</strong> JavaScript (to expand my front-end capabilities)</li>
+          <li><strong>Currently Learning:</strong> Continuously improving front-end development skills and web technologies</li>
         </ul>
       </td>
       <td valign="top" width="50%">
